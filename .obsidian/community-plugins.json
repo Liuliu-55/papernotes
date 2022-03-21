@@ -6,10 +6,10 @@
   "calendar",
   "table-editor-obsidian",
   "nldates-obsidian",
-  "obsidian-git",
   "obsidian-hider",
   "obsidian-minimal-settings",
   "templater-obsidian",
   "ProxyGithub",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-git"
 ]
