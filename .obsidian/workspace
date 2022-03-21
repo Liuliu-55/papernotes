@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ubuntu/windows 使用git同步obsidian.md",
+            "file": "work_logs/2022-03-21.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ubuntu/windows 使用git同步obsidian.md",
+                "file": "work_logs/2022-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,13 +96,13 @@
   },
   "active": "e04196c5cfbd24c8",
   "lastOpenFiles": [
-    "ubuntu/windows 使用git同步obsidian.md",
     "work_logs/2022-03-21.md",
+    "windows 使用git同步obsidian 1.md",
     "windows 使用git同步obsidian.md",
+    "ubuntu 20.4安装中文输入法.md",
     "导入图像.md",
     "Deep learning.md",
     "ubuntu下安装外置网卡驱动.md",
-    "ubuntu 20.4安装中文输入法.md",
     "ubuntu安装obsidian软件.md",
     "Unbuntu 深度学习环境配置.md",
     "linux 系统操作.md"
