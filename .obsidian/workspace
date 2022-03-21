@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "导入图像.md",
+            "file": "ubuntu/windows 使用git同步obsidian.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "导入图像.md",
+                "file": "ubuntu/windows 使用git同步obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,15 +96,15 @@
   },
   "active": "e04196c5cfbd24c8",
   "lastOpenFiles": [
+    "ubuntu/windows 使用git同步obsidian.md",
+    "work_logs/2022-03-21.md",
+    "windows 使用git同步obsidian.md",
     "导入图像.md",
     "Deep learning.md",
-    "work_logs/2022-03-21.md",
     "ubuntu下安装外置网卡驱动.md",
     "ubuntu 20.4安装中文输入法.md",
-    "ubuntu/windows 使用git同步obsidian.md",
     "ubuntu安装obsidian软件.md",
     "Unbuntu 深度学习环境配置.md",
-    "linux 系统操作.md",
-    "Deep Learing Model.md"
+    "linux 系统操作.md"
   ]
 }
