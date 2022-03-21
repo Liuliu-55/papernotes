@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "0c50a796488837fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04196c5cfbd24c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "work_logs/linux 系统操作.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d94acaee58b792d",
+    "type": "split",
+    "children": [
+      {
+        "id": "336d16db3388ab1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c244878be567f677",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a45fde98dc411b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235
+  },
+  "right": {
+    "id": "8536d7132f14ce36",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ee4dd7d3170b700",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72505182fcbbfa7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "work_logs/linux 系统操作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f873eeda8b7c007b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227
+  },
+  "active": "e04196c5cfbd24c8",
+  "lastOpenFiles": [
+    "work_logs/linux 系统操作.md",
+    "work_logs/Deep Learing Model.md",
+    "work_logs/深度学习Pytorch.md",
+    "2022-03-12.md",
+    "work_logs/Unbuntu 深度学习环境配置.md",
+    "work_logs/Ubuntu 配置.md",
+    "2022-03-19.md",
+    "Invalid date.md",
+    "Pasted image 20220312130328.png",
+    "Pasted image 20220319140815.png"
+  ]
+}
