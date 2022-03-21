@@ -9,5 +9,7 @@
   "obsidian-git",
   "obsidian-hider",
   "obsidian-minimal-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "ProxyGithub",
+  "obsidian-kanban"
 ]
