@@ -7,9 +7,29 @@
         "id": "e04196c5cfbd24c8",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "cf474a21bced4745",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
             "file": "vscode调试.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "14a8a85d30f5b374",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -69,19 +89,19 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vscode调试.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "adb9d49777e86889",
+            "id": "f873eeda8b7c007b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -95,17 +115,17 @@
     "direction": "horizontal",
     "width": 227
   },
-  "active": "e04196c5cfbd24c8",
+  "active": "14a8a85d30f5b374",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "vscode调试.md",
     "work_logs/2022-03-22.md",
-    "Deep Learing Model.md",
-    "深度学习Pytorch.md",
-    "导入图像.md",
-    "2022-03-21.md",
+    "work_logs/2022-03-21.md",
+    "windows及ubuntu使用git同步obsidian.md",
+    "windows 使用git同步obsidian 1.md",
     "ubuntu 20.4安装中文输入法.md",
-    "ImageNet Classification with Deep Convolutional Neural Networks.md",
-    "Ubuntu 配置.md",
-    "linux 系统操作.md"
+    "导入图像.md",
+    "Deep learning.md",
+    "ubuntu下安装外置网卡驱动.md"
   ]
 }
