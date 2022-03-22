@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deep Learing Model.md",
+            "file": "vscode调试.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learing Model.md",
+                "file": "vscode调试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "e04196c5cfbd24c8",
   "lastOpenFiles": [
-    "Deep Learing Model.md",
+    "vscode调试.md",
     "work_logs/2022-03-22.md",
+    "Deep Learing Model.md",
     "深度学习Pytorch.md",
     "导入图像.md",
     "2022-03-21.md",
     "ubuntu 20.4安装中文输入法.md",
     "ImageNet Classification with Deep Convolutional Neural Networks.md",
     "Ubuntu 配置.md",
-    "linux 系统操作.md",
-    "Network in network.md"
+    "linux 系统操作.md"
   ]
 }
