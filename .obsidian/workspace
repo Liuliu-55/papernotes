@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "work_logs/2022-03-22.md",
+            "file": "Deep Learing Model.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work_logs/2022-03-22.md",
+                "file": "Deep Learing Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "e04196c5cfbd24c8",
   "lastOpenFiles": [
+    "Deep Learing Model.md",
     "work_logs/2022-03-22.md",
+    "深度学习Pytorch.md",
+    "导入图像.md",
     "2022-03-21.md",
     "ubuntu 20.4安装中文输入法.md",
     "ImageNet Classification with Deep Convolutional Neural Networks.md",
-    "Deep Learing Model.md",
     "Ubuntu 配置.md",
     "linux 系统操作.md",
-    "深度学习Pytorch.md",
-    "Network in network.md",
-    "Deep learning.md"
+    "Network in network.md"
   ]
 }
