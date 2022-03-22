@@ -11,5 +11,6 @@
   "templater-obsidian",
   "ProxyGithub",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-admonition"
 ]
