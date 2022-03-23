@@ -31,21 +31,23 @@ class EESPblock(nn.Module):
 
 		super().__init__()
 
-		self.ground_conv_1x1 = nn.Conv2d(in_ch, out_ch, kernel_size=1,padding=0,dilation=1,groups=group)
+		self.ground_conv_1x1_block1 = nn.Conv2d(in_ch, out_ch, kernel_size=1,padding=0,dilation=1,groups=group)
 
-		self.deepwise_dilation_conv_block1_3x3 = nn.DeepWiseDilationBlock(out_ch,out_ch,k_size=3,pad=0,dil=1)
+		self.deepwise_dilation_conv_block1_3x3 = DeepWiseDilationBlock(out_ch,out_ch,k_size=3,pad=1,dil=1)
 
-		self.deepwise_dilation_conv_block2_3x3 = nn.DeepWiseDilationBlock(out_ch,out_ch,k_size=3,pad=0,dil=2)
+		self.deepwise_dilation_conv_block2_3x3 = DeepWiseDilationBlock(out_ch,out_ch,k_size=3,pad=2,dil=2)
 
-		self.deepwise_dilation_conv_block3_3x3 = nn.DeepWiseDilationBlock(out_ch,out_ch,k_size=3,pad=0,dil=3)
+		self.deepwise_dilation_conv_block3_3x3 = DeepWiseDilationBlock(out_ch,out_ch,k_size=3,pad=3,dil=3)
 
-		self.deepwise_dilation_conv_block4_3x3 = nn.DeepWiseDilationBlock(out_ch,out_ch,k_size=3,pad=0,dil=4)
+		self.deepwise_dilation_conv_block4_3x3 = DeepWiseDilationBlock(out_ch,out_ch,k_size=3,pad=4,dil=4)
+
+		self.ground_conv_1x1_block2 = nn.Conv2d(384, out_ch, kernel_size=1,padding=0,dilation=1,groups=group)
 
   
 
 	def forward(self,x):
 
-		x = self.ground_conv_1x1(x)
+		x = self.ground_conv_1x1_block1(x)
 
 		x1 = self.deepwise_dilation_conv_block1_3x3(x)
 
@@ -55,18 +57,17 @@ class EESPblock(nn.Module):
 
 		x4 = self.deepwise_dilation_conv_block4_3x3(x)
 
-		x_add1 = torch.add(x1,x2)
+x_add1 = torch.add(x1,x2)
 
-		x_add2 = torch.add(x_add1,x3)
+x_add2 = torch.add(x_add1,x3)
 
-		x_add3 = torch.add(x_add2, x4)
+x_add3 = torch.add(x_add2, x4)
 
-		x_cat = torch.cat((x_add1,x_add2,x_add3),1)
+x_cat = torch.cat((x_add1,x_add2,x_add3),1)
 
-		x_gconv = self.ground_conv_1x1(x_cat)
+x_gconv = self.ground_conv_1x1_block2(x_cat)
 
-		return x_gconv
-```
+return x_gconv```
 
 ## SPP Block
 ```python
