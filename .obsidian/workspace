@@ -7,17 +7,9 @@
         "id": "e04196c5cfbd24c8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "cf474a21bced4745",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
-            "file": "ImageNet Classification with Deep Convolutional Neural Networks.md",
+            "file": "Deep Learing Model.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ImageNet Classification with Deep Convolutional Neural Networks.md",
+                "file": "Deep Learing Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +95,17 @@
     "direction": "horizontal",
     "width": 227
   },
-  "active": "cf474a21bced4745",
+  "active": "e04196c5cfbd24c8",
   "lastOpenFiles": [
+    "Deep Learing Model.md",
+    "work_logs/2022-03-23.md",
+    "conflict-files-obsidian-git.md",
+    "work_logs/2022-03-22.md",
     "ImageNet Classification with Deep Convolutional Neural Networks.md",
     "ubuntu 20.4安装中文输入法.md",
     "vscode调试.md",
-    "conflict-files-obsidian-git.md",
-    "work_logs/2022-03-22.md",
     "work_logs/2022-03-21.md",
     "windows及ubuntu使用git同步obsidian.md",
-    "windows 使用git同步obsidian 1.md",
-    "导入图像.md",
-    "Deep learning.md"
+    "windows 使用git同步obsidian 1.md"
   ]
 }
