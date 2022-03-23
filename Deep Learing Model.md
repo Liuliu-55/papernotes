@@ -70,5 +70,7 @@ class EESPblock(nn.Module):
 
 ## SPP Block
 ```python
-class
+import torch.nn as nn
+class SPPBlock:
+
 ```
