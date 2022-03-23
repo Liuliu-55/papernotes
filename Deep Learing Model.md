@@ -57,17 +57,17 @@ class EESPblock(nn.Module):
 
 		x4 = self.deepwise_dilation_conv_block4_3x3(x)
 
-x_add1 = torch.add(x1,x2)
+		x_add1 = torch.add(x1,x2)
 
-x_add2 = torch.add(x_add1,x3)
+		x_add2 = torch.add(x_add1,x3)
 
-x_add3 = torch.add(x_add2, x4)
+		x_add3 = torch.add(x_add2, x4)
 
-x_cat = torch.cat((x_add1,x_add2,x_add3),1)
+		x_cat = torch.cat((x_add1,x_add2,x_add3),1)
 
-x_gconv = self.ground_conv_1x1_block2(x_cat)
+		x_gconv = self.ground_conv_1x1_block2(x_cat)
 
-return x_gconv```
+		return x_gconv```
 
 ## SPP Block
 ```python
