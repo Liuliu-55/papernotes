@@ -72,5 +72,11 @@ class EESPblock(nn.Module):
 ```python
 import torch.nn as nn
 class SPPBlock:
-"""input (c,h,w), output an fixed size(c_out,h_out,w_out)
+"""input (c,h,w), output an fixed size(c_out,h_out,w_out)"""
+
+	def __init__():
+
+
+
+	def forward(self,x):
 ```
