@@ -20,7 +20,7 @@ class DeepWiseDilationBlock(nn.Module):
 
 	def forward(self, x):
 
-		x=self.block
+		x=self.block(x)
 
 		return x
 
