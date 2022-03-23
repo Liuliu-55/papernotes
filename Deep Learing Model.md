@@ -72,5 +72,5 @@ class EESPblock(nn.Module):
 ```python
 import torch.nn as nn
 class SPPBlock:
-
+"""input (c,h,w), output an fixed size(c_out,h_out,w_out)
 ```
