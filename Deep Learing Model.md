@@ -69,7 +69,11 @@ class EESPblock(nn.Module):
 ```
 
 ## SPP Block
-```python
+```ad-python
+
+title: Nested Admonitions
+collapse: open
+
 import torch.nn as nn
 class SPPBlock(nn.Module):
 
