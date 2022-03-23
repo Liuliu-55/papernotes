@@ -69,7 +69,7 @@ class EESPblock(nn.Module):
 ```
 
 ## SPP Block
-```python
+```ad-python
 import torch.nn as nn
 class SPPBlock(nn.Module):
 
