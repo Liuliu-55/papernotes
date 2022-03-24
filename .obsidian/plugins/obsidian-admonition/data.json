@@ -1,15 +1,17 @@
 {
   "userAdmonitions": {
-    "python": {
-      "type": "python",
+    "note": {
+      "type": "note",
       "color": "#7d7d7d",
       "icon": {
         "name": "ad",
         "type": "font-awesome"
       },
       "command": false,
+      "title": "Note",
       "injectColor": true,
-      "noTitle": true
+      "noTitle": true,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
