@@ -51,3 +51,5 @@ DEVICE  TYPE      STATE      CONNECTION
 enp4s0  ethernet  connected  有线连接 1 
 lo      loopback  unmanaged  --     
 ```
+
+可以看到
