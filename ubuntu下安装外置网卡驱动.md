@@ -53,4 +53,10 @@ enp4s0  ethernet  connected  有线连接 1
 lo      loopback  unmanaged  --     
 ```
 
-可以看到
+可以看到无法挂载网卡
+
+解决方法：
+在该文件夹内打开终端
+```shell
+&
+```
