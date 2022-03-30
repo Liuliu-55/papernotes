@@ -43,7 +43,7 @@ wlan0：扫描wifi热点时你所要连的wifi名字(eg:ens33)
 问题：
 电脑跳闸后网卡弹出
 进入RTL8812AU驱动文件后重新执行网卡挂载报错
-
+[[Selection_007.png]]
 ```shell
 (base) liuliu@liuliu-Z590-UD:~/rtl8812au$ sudo modprobe 8812au
 modprobe: ERROR: could not insert '8812au': Invalid argument
