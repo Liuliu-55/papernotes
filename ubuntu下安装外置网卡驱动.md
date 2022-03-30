@@ -38,3 +38,8 @@ sudo nmcli dev wifi connect "SSID" password "PASSWORD" ifname wlan0
 SSID：实际wifi名字
 PASSWORD：实际wifi密码
 wlan0：扫描wifi热点时你所要连的wifi名字(eg:ens33)
+
+
+问题：
+电脑跳闸后网卡弹出
+进入RTL8812AU

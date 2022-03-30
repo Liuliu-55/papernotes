@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "网络参数.md",
+            "file": "ubuntu下安装外置网卡驱动.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网络参数.md",
+                "file": "ubuntu下安装外置网卡驱动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "e04196c5cfbd24c8",
   "lastOpenFiles": [
+    "ubuntu下安装外置网卡驱动.md",
     "网络参数.md",
     "Deep Learing Model.md",
     "work_logs/2022-03-23.md",
@@ -105,7 +106,6 @@
     "ImageNet Classification with Deep Convolutional Neural Networks.md",
     "ubuntu 20.4安装中文输入法.md",
     "vscode调试.md",
-    "work_logs/2022-03-21.md",
-    "windows及ubuntu使用git同步obsidian.md"
+    "work_logs/2022-03-21.md"
   ]
 }
