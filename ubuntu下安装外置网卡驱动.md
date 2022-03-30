@@ -58,5 +58,8 @@ lo      loopback  unmanaged  --
 解决方法：
 在该文件夹内打开终端
 ```shell
-&
+$ make clean
+$ make
+$ sudo make install
+$ sudo modprobe 8812au
 ```
