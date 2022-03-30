@@ -56,10 +56,19 @@ lo      loopback  unmanaged  --
 可以看到无法挂载网卡
 
 解决方法：
-在该文件夹内打开终端
+在该文件夹内打开终端输入命令
 ```shell
 $ make clean
 $ make
 $ sudo make install
 $ sudo modprobe 8812au
 ```
+再看设备
+```shell
+(base) liuliu@liuliu-Z590-UD:~/rtl8812au$ sudo nmcli dev
+DEVICE           TYPE      STATE      CONNECTION 
+enp4s0           ethernet  connected  有线连接 1 
+enx502b73c90692  wifi      connected  LLL        
+lo               loopback  unmanaged  --   
+```
+可以看见设备已被挂载，网卡
