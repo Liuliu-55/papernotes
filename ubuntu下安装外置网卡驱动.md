@@ -71,4 +71,4 @@ enp4s0           ethernet  connected  有线连接 1
 enx502b73c90692  wifi      connected  LLL        
 lo               loopback  unmanaged  --   
 ```
-可以看见设备已被挂载，网卡
+可以看见设备已被挂载，网卡链接wifi成功
