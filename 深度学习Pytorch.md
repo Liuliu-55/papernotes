@@ -53,7 +53,8 @@ import torch.nn as nn
 
 class Module(nn.Module):
 	def __init__(self):
-		super.__init__
+		super.__init__()
+		self.model = models.resnet50(pretrained=True)
 		
 	
 
