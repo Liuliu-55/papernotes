@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未完成笔记.md",
+            "file": "Git 笔记.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未完成笔记.md",
+                "file": "Git 笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "e04196c5cfbd24c8",
   "lastOpenFiles": [
-    "未完成笔记.md",
-    "Deep Learing Model.md",
-    "ubuntu下安装外置网卡驱动.md",
-    "image/Selection_007.png",
-    "网络参数.md",
-    "work_logs/2022-03-23.md",
+    "Git 笔记.md",
     "conflict-files-obsidian-git.md",
-    "work_logs/2022-03-22.md",
+    "Deep Learing Model.md",
+    "Deep learning.md",
     "ImageNet Classification with Deep Convolutional Neural Networks.md",
-    "ubuntu 20.4安装中文输入法.md"
+    "linux 系统操作.md",
+    "Network in network.md",
+    "vscode调试.md",
+    "未完成笔记.md",
+    "ubuntu下安装外置网卡驱动.md"
   ]
 }
