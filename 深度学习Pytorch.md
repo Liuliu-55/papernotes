@@ -58,6 +58,7 @@ class Module(nn.Module):
 		self.model = models.resnet50(pretrained=True)
 		# 加载resnet50模型
 		# pretrained=True会加载训练好的参数
+		self.conv
 	
 
 ```
