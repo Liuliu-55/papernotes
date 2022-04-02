@@ -46,6 +46,7 @@ tensorboard 是 tensorflow 内置的可视化工具
 
 ## pytorch导入预训练模型
 pytorch导入官方预训练好的Resnet模型
+https://blog.csdn.net/weixin_42118374/article/details/103761795
 ```python
 from torchvision import models
 import torch.nn as nn
