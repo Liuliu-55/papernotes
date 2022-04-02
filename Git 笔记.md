@@ -9,6 +9,8 @@
 ```shell
 git reset --hard FETCH_HEAD
 ```
+
+![[Pasted image 20220402151328.png]]
 FETCH_HEAD 为远程分支最新版本
 
 * 不能丢弃本地更改，先对unmerge文件进行手动修改，修改掉冲突部分后
