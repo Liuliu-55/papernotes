@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未完成笔记.md",
+            "file": "深度学习Pytorch.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未完成笔记.md",
+                "file": "深度学习Pytorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
   },
   "active": "b7c0267b7c8ded0d",
   "lastOpenFiles": [
+    "深度学习Pytorch.md",
     "未完成笔记.md",
     "Tensorboard可视化.md",
-    "深度学习Pytorch.md",
     "Linux服务器.md",
     "linux 系统操作.md",
     "ImageNet Classification with Deep Convolutional Neural Networks.md",
