@@ -1,4 +1,4 @@
-### 1
+###  1.1
 使用git在笔记本电脑和主机间进行obsidian笔记同步
 在主机进行`git push origin master`后笔记本电脑`git pull gitee master`发生unmerge错误
 使用`git status`进行故障查询
@@ -18,6 +18,8 @@ FETCH_HEAD 为远程分支最新版本
 git add filename
 git commit -m "message(unmerge)"
 ```
+
+![[Pasted image 20220402151430.png]]
 * 废除本次合并
 ```shell
 git reset --hard HEAD
