@@ -45,4 +45,5 @@ tensorboard 是 tensorflow 内置的可视化工具
 * torch.squeeze
 
 ## pytorch导入预训练模型
+pytorch导入官方预训练好的Resnet模型
 
