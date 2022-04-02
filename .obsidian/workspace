@@ -4,22 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e04196c5cfbd24c8",
+        "id": "b7c0267b7c8ded0d",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20220402150621.png"
-          }
-        }
-      },
-      {
-        "id": "2decc8f3f386a46f",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Pasted image 20220402151430.png"
+            "file": "Linux服务器.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -77,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220402151430.png",
+                "file": "Linux服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +95,17 @@
     "direction": "horizontal",
     "width": 227
   },
-  "active": "2decc8f3f386a46f",
+  "active": "b7c0267b7c8ded0d",
   "lastOpenFiles": [
-    "Pasted image 20220402151430.png",
-    "Pasted image 20220402151328.png",
-    "Pasted image 20220402150621.png",
-    "conflict-files-obsidian-git.md",
+    "Linux服务器.md",
     "linux 系统操作.md",
-    "Git 笔记.md",
-    "Deep Learing Model.md",
-    "Deep learning.md",
     "ImageNet Classification with Deep Convolutional Neural Networks.md",
-    "Network in network.md"
+    "Network in network.md",
+    "ubuntu 20.4安装中文输入法.md",
+    "Ubuntu 配置.md",
+    "ubuntu安装obsidian软件.md",
+    "ubuntu下安装外置网卡驱动.md",
+    "Unbuntu 深度学习环境配置.md",
+    "windows及ubuntu使用git同步obsidian.md"
   ]
 }
