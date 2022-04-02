@@ -55,7 +55,8 @@ class Module(nn.Module):
 	def __init__(self):
 		super.__init__()
 		self.model = models.resnet50(pretrained=True)
-		
+		# 加载resnet50模型
+		# pretrained=True会加载训练好的参数
 	
 
 ```
