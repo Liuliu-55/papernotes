@@ -43,3 +43,6 @@ tensorboard 是 tensorflow 内置的可视化工具
 * nn.zeropad2d
 * torch.nn.function.interpolate
 * torch.squeeze
+
+## pytorch导入预训练模型
+
