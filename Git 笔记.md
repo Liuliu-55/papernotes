@@ -7,5 +7,6 @@
 解决方法：
 * 我需要远程分支，本地分支较为老旧，进行丢弃
 ```shell
-git reset -- 
+git reset --hard FETCH_HEAD
 ```
+FETCH
