@@ -5,3 +5,4 @@
 nohup python train.py --cfg config_files/tmvanet.json &
 ```
 输出信息会保存到该运行文件目录下`nohup.out`临时文件中
+采用`ps -aux`查看当前运行进程，或者使用
