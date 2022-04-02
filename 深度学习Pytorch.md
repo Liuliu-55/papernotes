@@ -58,7 +58,8 @@ class Module(nn.Module):
 		self.model = models.resnet50(pretrained=True)
 		# 加载resnet50模型
 		# pretrained=True会加载训练好的参数
-		self.conv
+		self.conv_model.load_state_dict(torch.load("路径"))
+		# 如果下载了模型，则直接本地加载
 	
 
 ```
