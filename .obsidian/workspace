@@ -7,11 +7,19 @@
         "id": "e04196c5cfbd24c8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Git 笔记.md",
-            "mode": "source",
-            "source": false
+            "file": "Pasted image 20220402150621.png"
+          }
+        }
+      },
+      {
+        "id": "2decc8f3f386a46f",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Pasted image 20220402151430.png"
           }
         }
       }
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git 笔记.md",
+                "file": "Pasted image 20220402151430.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +103,17 @@
     "direction": "horizontal",
     "width": 227
   },
-  "active": "e04196c5cfbd24c8",
+  "active": "2decc8f3f386a46f",
   "lastOpenFiles": [
-    "Git 笔记.md",
+    "Pasted image 20220402151430.png",
+    "Pasted image 20220402151328.png",
+    "Pasted image 20220402150621.png",
     "conflict-files-obsidian-git.md",
+    "linux 系统操作.md",
+    "Git 笔记.md",
     "Deep Learing Model.md",
     "Deep learning.md",
     "ImageNet Classification with Deep Convolutional Neural Networks.md",
-    "linux 系统操作.md",
-    "Network in network.md",
-    "vscode调试.md",
-    "未完成笔记.md",
-    "ubuntu下安装外置网卡驱动.md"
+    "Network in network.md"
   ]
 }
