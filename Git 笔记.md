@@ -11,4 +11,8 @@ git reset --hard FETCH_HEAD
 ```
 FETCH_HEAD 为远程分支最新版本
 
-* 不能丢弃本地更改，先对unmerge文件进行
+* 不能丢弃本地更改，先对unmerge文件进行手动修改，修改掉冲突部分后
+```shell
+git add filename
+git commit -m "message(un)"
+```
