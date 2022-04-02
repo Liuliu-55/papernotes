@@ -48,7 +48,14 @@ tensorboard 是 tensorflow 内置的可视化工具
 pytorch导入官方预训练好的Resnet模型
 ```python
 from torchvision import models
-class Module(nn.Mou)
+import torch.nn as nn
+
+
+class Module(nn.Module):
+	def __init__(self):
+		super.__init__
+		
+	
 
 ```
 
