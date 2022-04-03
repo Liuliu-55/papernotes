@@ -12,6 +12,7 @@ class DeepWiseDilationBlock(nn.Module):
 	def __init__(self,in_ch,out_ch,k_size,pad,dil):
 
 		super().__init__()
+		# 两个括号一定要加，不然会报错
 
 		self.block = nn.Sequential(
 								nn.Conv2d(in_ch, in_ch, kernel_size=k_size, padding=pad, dilation=dil),
