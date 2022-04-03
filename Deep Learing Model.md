@@ -130,3 +130,6 @@ x_flatten = torch.cat((x_flatten, tensor.view(num, -1)), 1)
 
 return x_flatten
 ```
+
+问题：出现Runtime Error
+解决：加上`torch.cuda.current_device()`语句
