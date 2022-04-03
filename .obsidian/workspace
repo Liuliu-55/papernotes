@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows及ubuntu使用git同步obsidian.md",
+            "file": "图片矢量图转换啊.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows及ubuntu使用git同步obsidian.md",
+                "file": "图片矢量图转换啊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,13 @@
   },
   "active": "b7c0267b7c8ded0d",
   "lastOpenFiles": [
+    "图片矢量图转换啊.md",
+    "深度学习Pytorch.md",
+    "opencv导入图像数据.md",
     "windows及ubuntu使用git同步obsidian.md",
     "vscode调试.md",
     "ubuntu安装obsidian软件.md",
     "ubuntu 20.4安装中文输入法.md",
-    "图片矢量图转换啊.md",
-    "深度学习Pytorch.md",
     "网络参数.md",
     "未完成笔记.md",
-    "绪论.md",
-    "Tensorboard可视化.md"
-  ]
-}
+    "绪论
