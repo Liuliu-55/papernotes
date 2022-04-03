@@ -15,7 +15,7 @@ class DeepWiseDilationBlock(nn.Module):
 		# 两个括号一定要加，不然会报错
 
 		self.block = nn.Sequential(
-								nn.Conv2d(in_ch, in_ch, kernel_size=k_size, padding=pad, dilation=dil),
+								nn.Conv2d(in_ch, in_ch, kernel_size=k_size, padding=pad, dilation=dil, group=),
 
 								nn.Conv2d(in_ch, out_ch, kernel_size=1,padding=pad, dilation=dil))
 
