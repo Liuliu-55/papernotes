@@ -66,6 +66,7 @@ class Module(nn.Module):
 
 常用的Resnet下载地址：
 ```ad-note
+title:下载地址
  'resnet18': 'https://download.pytorch.org/models/resnet18-5c106cde.pth',
  'resnet34': 'https://download.pytorch.org/models/resnet34-333f7ec4.pth',
  'resnet50': 'https://download.pytorch.org/models/resnet50-19c8e357.pth',
