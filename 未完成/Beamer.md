@@ -81,3 +81,18 @@ ImageMagick下载网站：[ImageMagick – Download](https://www.imagemagick.org
 \label{fig:compare_fig}
 \end{figure*}
 ```
+
+## 调整字体
+```latex
+Font Sizes  
+\tiny  
+\scriptsize  
+\footnotesize  
+\small  
+\normalsize  
+\large  
+\Large  
+\LARGE  
+\huge  
+\Huge
+```
