@@ -40,3 +40,6 @@ windows使用路径时要用双斜杠`\\` 或反斜杠`/`
 且路径不能带有中文
 
 ## 图像预处理
+```python
+camera_matrix = cv2.imread(os.path.join(self.path_to_frame))
+```
