@@ -112,3 +112,6 @@ ImageMagick下载网站：[ImageMagick – Download](https://www.imagemagick.org
 \textsuperscript{\cite{}}
 %上标引用
 ```
+
+## 调整图片位置
+[(19条消息) 在 LaTeX 中调整图片和表格的位置_Xovee的博客-CSDN博客_latex表格位置](https://blog.csdn.net/xovee/article/details/109378160)
