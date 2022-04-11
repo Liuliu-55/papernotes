@@ -12,3 +12,6 @@
 \end{columns}
 ```
 
+## 添加gif动画
+gif转eps
+[Beamer中使用动态gif动画效果 - 简书 (jianshu.com)](https://www.jianshu.com/p/bf9859de1962)
