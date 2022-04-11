@@ -105,4 +105,8 @@ ImageMagick下载网站：[ImageMagick – Download](https://www.imagemagick.org
 
 ## 参考文献引用
 ```latex
+\cite{}
+%平齐引用
+\textsuperscript{\cite{}}
+%上标引用
 ```
