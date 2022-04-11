@@ -41,5 +41,8 @@ windows使用路径时要用双斜杠`\\` 或反斜杠`/`
 
 ## 图像预处理
 ```python
-camera_matrix = cv2.imread(os.path.join(self.path_to_frame))
+camera_matrix = cv2.imread(os.path.join(self.path_to_frames,
+										"camera_images",
+										frame_name+".jpg"),0)
+
 ```
