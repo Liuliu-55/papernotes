@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未完成笔记.md",
+            "file": "未完成/CARRADA雷达数据与光学数据对齐.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未完成笔记.md",
+                "file": "未完成/CARRADA雷达数据与光学数据对齐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "b7c0267b7c8ded0d",
   "lastOpenFiles": [
+    "未完成/CARRADA雷达数据与光学数据对齐.md",
     "未完成笔记.md",
     "Latex.md",
     "密码管理软件.md",
@@ -105,7 +106,6 @@
     "ubuntu下安装外置网卡驱动.md",
     "Linux服务器.md",
     "深度学习可视化.md",
-    "Deep Learing Model.md",
-    "Deep learning.md"
+    "Deep Learing Model.md"
   ]
 }
