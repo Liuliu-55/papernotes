@@ -45,6 +45,8 @@ ImageMagick下载网站：[ImageMagick – Download](https://www.imagemagick.org
 ## 排版多个图片
 ```latex
 \usepackage{subfigure}
+\usepackage{graphicx}
+%包一定要加，不然会报错“error : Undefined control sequence”
 
 \begin{figure*}[htbp]
 \centering
