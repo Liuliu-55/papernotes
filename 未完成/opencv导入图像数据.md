@@ -44,5 +44,6 @@ windows使用路径时要用双斜杠`\\` 或反斜杠`/`
 camera_matrix = cv2.imread(os.path.join(self.path_to_frames,
 										"camera_images",
 										frame_name+".jpg"),0)
-
+# camera_matrix.shape = (1028,1232)
+camera_matrix = cv2.
 ```
