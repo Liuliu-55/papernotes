@@ -84,15 +84,22 @@ ImageMagick下载网站：[ImageMagick – Download](https://www.imagemagick.org
 
 ## 调整字体
 ```latex
-Font Sizes  
-\tiny  
-\scriptsize  
-\footnotesize  
+
+
 \small  
-\normalsize  
-\large  
-\Large  
-\LARGE  
-\huge  
-\Huge
+\bibliographystyle{ieee}  
+\bibliography{CASSreference}
+
+%Font Sizes  
+%\tiny  
+%\scriptsize  
+%\footnotesize  
+%\small  
+%\normalsize  
+%\large  
+%\Large  
+%\LARGE  
+%\huge  
+%\Huge
 ```
+
