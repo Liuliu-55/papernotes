@@ -41,3 +41,43 @@ ImageMagick下载网站：[ImageMagick – Download](https://www.imagemagick.org
 \end{document}
 
 ```
+
+## 排版多个图片
+```latex
+\usepackage{subfigure}
+
+\begin{figure*}[htbp]
+\centering
+ 
+\subfigure[]{
+    \begin{minipage}[t]{0.33\linewidth}
+        \centering
+        \includegraphics[width=1.651in]{PR_Curve/FBMS_PR.eps}\\
+        \vspace{0.02cm}
+        \includegraphics[width=1.651in]{PR_Curve/DAVIS_PR.eps}\\
+        \vspace{0.02cm}
+        \includegraphics[width=1.651in]{PR_Curve/ViSal_PR.eps}\\
+        \vspace{0.02cm}
+        %\caption{fig1}
+    \end{minipage}%
+}%
+\subfigure[]{
+    \begin{minipage}[t]{0.33\linewidth}
+        \centering
+        \includegraphics[width=1.651in]{FMeasures/FBMS_Score.eps}\\
+        \vspace{0.02cm}
+        \includegraphics[width=1.651in]{FMeasures/DAVIS_Score.eps}\\
+        \vspace{0.02cm}
+        \includegraphics[width=1.651in]{FMeasures/ViSal_Score.eps}\\
+        \vspace{0.02cm}
+        %\caption{fig1}
+    \end{minipage}%
+}%
+ 
+ 
+\centering
+\caption{描述。。。}
+\vspace{-0.2cm}
+\label{fig:compare_fig}
+\end{figure*}
+```
