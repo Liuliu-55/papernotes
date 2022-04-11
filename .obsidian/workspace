@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未完成/CARRADA雷达数据与光学数据对齐.md",
+            "file": "未完成/python读取并可视化npy格式的深度图文件以及将其保存为jpg图片的方法.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未完成/CARRADA雷达数据与光学数据对齐.md",
+                "file": "未完成/python读取并可视化npy格式的深度图文件以及将其保存为jpg图片的方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "b7c0267b7c8ded0d",
   "lastOpenFiles": [
+    "未完成/python读取并可视化npy格式的深度图文件以及将其保存为jpg图片的方法.md",
     "未完成/CARRADA雷达数据与光学数据对齐.md",
     "未完成/opencv导入图像数据.md",
     "未完成/图像预处理.md",
@@ -105,7 +106,6 @@
     "密码管理软件.md",
     "深度学习Pytorch.md",
     "Git 笔记.md",
-    "ubuntu下安装外置网卡驱动.md",
-    "Linux服务器.md"
+    "ubuntu下安装外置网卡驱动.md"
   ]
 }
