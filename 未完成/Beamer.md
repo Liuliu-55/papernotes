@@ -19,3 +19,25 @@ ImageMagick下载网站：[ImageMagick – Download](https://www.imagemagick.org
 [Beamer中使用动态gif动画效果 - 简书 (jianshu.com)](https://www.jianshu.com/p/bf9859de1962)
 
 ## 插入表格
+```latex
+\documentclass{article}
+
+\begin{document}
+
+\begin{table}[h!]
+  \begin{center}
+    \caption{Your first table.}
+    \begin{tabular}{l|c|r} % <-- Alignments: 1st column left, 2nd middle and 3rd right, with vertical lines in between
+      \textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
+      $\alpha$ & $\beta$ & $\gamma$ \\
+      \hline
+      1 & 1110.1 & a\\
+      2 & 10.1 & b\\
+      3 & 23.113231 & c\\
+    \end{tabular}
+  \end{center}
+\end{table}
+
+\end{document}
+
+```
