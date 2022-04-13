@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ubuntu下安装外置网卡驱动.md",
+            "file": "Deep Learing Model.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ubuntu下安装外置网卡驱动.md",
+                "file": "Deep Learing Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +97,13 @@
   },
   "active": "b7c0267b7c8ded0d",
   "lastOpenFiles": [
+    "Deep Learing Model.md",
     "ubuntu下安装外置网卡驱动.md",
     "ubuntu 20.4安装中文输入法.md",
     "Ubuntu 配置.md",
     "ubuntu安装obsidian软件.md",
     "Unbuntu 深度学习环境配置.md",
     "Deep learning.md",
-    "Deep Learing Model.md",
     "work_logs/2022-04-11.md",
     "任务驱动生活.md",
     "work_logs/2022-03-22.md"
