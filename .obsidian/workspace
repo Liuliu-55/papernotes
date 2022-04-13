@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deep Learing Model.md",
+            "file": "ubuntu 20.4安装中文输入法.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learing Model.md",
+                "file": "ubuntu 20.4安装中文输入法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "b7c0267b7c8ded0d",
   "lastOpenFiles": [
+    "ubuntu 20.4安装中文输入法.md",
+    "Ubuntu 配置.md",
+    "ubuntu安装obsidian软件.md",
+    "ubuntu下安装外置网卡驱动.md",
+    "Unbuntu 深度学习环境配置.md",
+    "Deep learning.md",
     "Deep Learing Model.md",
     "work_logs/2022-04-11.md",
     "任务驱动生活.md",
-    "work_logs/2022-03-22.md",
-    "work_logs/2022-03-23.md",
-    "未完成/论文查询.md",
-    "绪论.md",
-    "未完成/python读取并可视化npy格式的深度图文件以及将其保存为jpg图片的方法.md",
-    "未完成/CARRADA雷达数据与光学数据对齐.md",
-    "未完成/Beamer.md"
+    "work_logs/2022-03-22.md"
   ]
 }
