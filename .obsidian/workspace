@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deep Learing Model.md",
+            "file": "work_logs/2022-04-16.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learing Model.md",
+                "file": "work_logs/2022-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "b7c0267b7c8ded0d",
   "lastOpenFiles": [
+    "work_logs/2022-04-16.md",
     "Deep Learing Model.md",
     "ubuntu下安装外置网卡驱动.md",
     "ubuntu 20.4安装中文输入法.md",
@@ -105,7 +106,6 @@
     "Unbuntu 深度学习环境配置.md",
     "Deep learning.md",
     "work_logs/2022-04-11.md",
-    "任务驱动生活.md",
-    "work_logs/2022-03-22.md"
+    "任务驱动生活.md"
   ]
 }
