@@ -277,3 +277,10 @@ class ConvLSTM(nn.Module):
         return outputs, (x, new_c)
 
 ```
+
+
+## ConvGRU
+链接：https://github.com/happyjin/ConvGRU-pytorch/blob/master/convGRU.py
+```python3
+
+```
