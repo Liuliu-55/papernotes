@@ -26,3 +26,15 @@ git reset --hard HEAD
 ```
 
 ### 1.2 丢弃工作区修改
+```shell
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+ 
+	modified:   readme.txt
+ 
+no changes added to commit (use "git add" and/or "git commit -a")
+```
+readme.txt加入了暂缓区中，而工作区的修改
