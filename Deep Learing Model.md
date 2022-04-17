@@ -137,6 +137,7 @@ return x_flatten
 ## ConvLSTM
 链接：https://github.com/Hzzone/Precipitation-Nowcasting
 [GitHub - happyjin/ConvGRU-pytorch: Convolutional GRU](https://github.com/happyjin/ConvGRU-pytorch)
+原理：[(19条消息) 【论文翻译】Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting_页页读的博客-CSDN博客](https://blog.csdn.net/u014386899/article/details/100560734)
 ```python
 import torch
 import torch.nn as nn
