@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git 笔记.md",
+            "file": "深度学习Pytorch.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git 笔记.md",
+                "file": "深度学习Pytorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "b7c0267b7c8ded0d",
   "lastOpenFiles": [
+    "深度学习Pytorch.md",
+    "Deep learning.md",
     "Git 笔记.md",
     "Deep Learing Model.md",
     "work_logs/2022-04-16.md",
@@ -104,8 +106,6 @@
     "ubuntu下安装外置网卡驱动.md",
     "ubuntu 20.4安装中文输入法.md",
     "Ubuntu 配置.md",
-    "ubuntu安装obsidian软件.md",
-    "Unbuntu 深度学习环境配置.md",
-    "Deep learning.md"
+    "ubuntu安装obsidian软件.md"
   ]
 }

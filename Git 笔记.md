@@ -37,4 +37,7 @@ Changes not staged for commit:
  
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
-readme.txt加入了暂缓区中，而工作区的修改
+readme.txt加入了暂缓区中，而要丢弃工作区的修改
+```shell
+$ git checkout -- readme.txt
+```
