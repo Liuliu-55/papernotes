@@ -24,3 +24,5 @@ git commit -m "message(unmerge)"
 ```shell
 git reset --hard HEAD
 ```
+
+### 1.2 丢弃工作区修改
