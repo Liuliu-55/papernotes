@@ -73,3 +73,24 @@ what is *PCA* and *Data Argumentation* ?
 ## References
 
 <!--(optional) 列出相关性高的文献，以便之后可以继续track下去。-->
+
+
+---
+# {{authorString}} ({{year}}) - {{title}}
+[==*Read it now! See in Zotero*==]({{zoteroSelectURI}})
+**Web:** [Open online]({{URL}})
+**Citekey:** {{citekey}}
+**Tags:** #source, (type), (status), (decade)
+**PDF**: {{pdfAttachments}}
+
+
+Type: {{entry.type}}
+Authors: {{authorString}}
+Year: {{year}}
+Title: {{title}}
+Journal: {{containerTitle}}
+Pages: {{page}}
+DOI: {{DOI}}
+Publisher: {{publisher}}
+Place: {{publisherPlace}}
+---

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "windows及ubuntu使用git同步obsidian.md",
+            "file": "ReadingNote/CARRADADatasetCameraAutomotiveRadarRangeAngleDopplerAnnotations.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows及ubuntu使用git同步obsidian.md",
+                "file": "ReadingNote/CARRADADatasetCameraAutomotiveRadarRangeAngleDopplerAnnotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +87,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "eab1cf1aacc5dc6d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -97,15 +105,15 @@
   },
   "active": "b7c0267b7c8ded0d",
   "lastOpenFiles": [
+    "ReadingNote/CARRADADatasetCameraAutomotiveRadarRangeAngleDopplerAnnotations.md",
+    "ReadingNote/Template/Mdnotes Default Template.md",
+    "ReadingNote/CARRADADatasetCameraAutomotiveRadarRangeAngleDopplerAnnotations-2021-Ouaknine.md",
+    "ReadingNote/ImageNet Classification with Deep Convolutional Neural Networks.md",
+    "ReadingNote/Ouaknine-CARRADADatasetCameraAutomotiveRadarRangeAngleDopplerAnnotations-2021.md",
+    "ReadingNote/ouaknineCARRADADatasetCamera2021.md",
+    "ReadingNote/ouaknineMultiViewRadarSemantic2021.md",
+    "ouaknineMultiViewRadarSemantic2021-zotero.md",
     "windows及ubuntu使用git同步obsidian.md",
-    "未完成/python读取并可视化npy格式的深度图文件以及将其保存为jpg图片的方法.md",
-    "未完成/opencv导入图像数据.md",
-    "未完成/Jupyter.md",
-    "未完成/CARRADA雷达数据与光学数据对齐.md",
-    "未完成/Beamer.md",
-    "未完成/未完成笔记.md",
-    "未完成/密码管理软件.md",
-    "未完成/论文查询.md",
-    "Deep Learing Model.md"
+    "未完成/python读取并可视化npy格式的深度图文件以及将其保存为jpg图片的方法.md"
   ]
 }
